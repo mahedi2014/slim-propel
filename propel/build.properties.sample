@@ -1,0 +1,6 @@
+propel.project = macrohock
+propel.database = mysql
+
+propel.database.url = localhost
+propel.database.user = root
+propel.database.password = root123
