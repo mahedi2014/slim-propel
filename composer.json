@@ -1,5 +1,5 @@
 {
-    "name": "Rhino CMS",
+    "name": "MacroHock",
     "require": {
         "php": ">=5.4.0",
         "monolog/monolog": "1.*",
